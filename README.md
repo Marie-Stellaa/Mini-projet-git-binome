@@ -1,1 +1,1 @@
-# Mini-projet
+# Mini-projet-git-binome

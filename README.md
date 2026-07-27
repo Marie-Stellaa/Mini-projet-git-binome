@@ -4,8 +4,8 @@ Mini-projet réalisé en binôme pour apprendre à collaborer avec Git (branches
  
 ## Binôme
  
-- Membre A : GODE Ayekpa Epiphanie
-- Membre B : EHOUSSOU Oint Phanuel
+- Membre A : [GODE AYEKPA Epiphanie Marie-Stella]
+- Membre B : [EHOUSSOU Oint Phanuel]
 ## Description
  
 Site vitrine minimal en une seule page (`index.html`) présentant le binôme (ou un projet fictif) : un titre, une courte présentation et une liste de compétences/centres d'intérêt.
